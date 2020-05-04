@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block title %}
+    Import Books
+{% endblock %}
+{% block heading %}
+    <h1 class="text-center">  Import Books</h1>
+{% endblock %}
+{% block body %}
+
+    <!-- Upload  -->
+
+    <form class="file-upload" action="" method="post" enctype="multipart/form-data">
+        <button class="file-upload-btn" type="button" onclick="$('.file-upload-input').trigger( 'click' )">Add csv</button>
+
+        <div class="image-upload-wrap">
+            <input class="file-upload-input" type="file" name="files" onchange="readURL(this);" accept="txt/csv/"/>
+            <div class="drag-text">
+                <h3>Drag and drop a file or select add csv</h3>
+            </div>
+        </div>
+        <div class="file-upload-content"><br>
+            <div class="image-title-wrap">
+                <button type="button" onclick="removeUpload()" class="remove-image">Remove <span class="image-title">Uploaded csv</span></button>
+            </div>
+            <button class="btn" type="submit" value="import">Import csv</button>
+
+        </div>
+    </form>
+
+{% endblock %}

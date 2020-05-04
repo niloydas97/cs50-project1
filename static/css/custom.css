@@ -1,0 +1,9 @@
+input.search-query.form-control {
+    padding: 20px;
+    height: 48px;
+    margin-top: 16px;
+}
+.btn-my-search {
+    height: 48px!important;
+    border-radius: 0px!important;
+}
