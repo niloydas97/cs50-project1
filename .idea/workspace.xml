@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112c8435-ee54-4d12-b9f0-d0dd054a844b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/heroku.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.py" afterPath="$PROJECT_DIR$/application.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,96 +19,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="11" lean-forward="false" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="import.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/import.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="102">
-                <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helpers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helpers.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="238">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_review_table.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_review_table.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="102">
-                <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <first_editor relative-caret-position="172">
+                <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
                 <folding>
-                  <element signature="e#0#9#0" expanded="true" />
-                  <marker date="1588587275765" expanded="true" signature="265:417" ph="CREATE TABLE... reviews" />
+                  <element signature="e#0#28#0" expanded="true" />
+                  <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+                  <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+                  <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+                  <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+                  <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+                  <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+                  <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+                  <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+                  <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+                  <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+                  <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+                  <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+                  <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+                  <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
                 </folding>
               </first_editor>
-              <second_editor relative-caret-position="-51">
+              <second_editor relative-caret-position="-119">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </second_editor>
@@ -114,37 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_books_table.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_books_table.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="136">
-                <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="57" />
-                <folding />
-              </first_editor>
-              <second_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/book.html">
+      <file leaf-file-name="heroku.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/heroku.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="45" lean-forward="false" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/style.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="170">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -209,8 +120,9 @@
         <option value="$PROJECT_DIR$/templates/layout.html" />
         <option value="$PROJECT_DIR$/templates/book.html" />
         <option value="$PROJECT_DIR$/create_review_table.py" />
-        <option value="$PROJECT_DIR$/application.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/heroku.txt" />
+        <option value="$PROJECT_DIR$/application.py" />
       </list>
     </option>
   </component>
@@ -273,110 +185,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style.scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -979,15 +787,16 @@
       <workItem from="1588427105316" duration="1319000" />
       <workItem from="1588481846809" duration="4178000" />
       <workItem from="1588565886141" duration="7322000" />
-      <workItem from="1588596790226" duration="4173000" />
+      <workItem from="1588596790226" duration="5854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168966000" />
+    <option name="totallyTimeSpent" value="170647000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1000,7 +809,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32018927" sideWeight="0.4941435" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32018927" sideWeight="0.4941435" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1068,20 +877,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1122,11 +917,43 @@
         <state>
           <first_editor relative-caret-position="34">
             <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-            <folding />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </second_editor>
         </state>
       </provider>
@@ -1152,11 +979,43 @@
         <state>
           <first_editor relative-caret-position="34">
             <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-            <folding />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </second_editor>
         </state>
       </provider>
@@ -1180,11 +1039,43 @@
         <state>
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </second_editor>
         </state>
       </provider>
@@ -1406,8 +1297,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="11" lean-forward="false" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        <state relative-caret-position="168">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroku.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1415,22 +1330,30 @@
     <entry file="file://$PROJECT_DIR$/application.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="7" />
-            <folding />
+          <first_editor relative-caret-position="172">
+            <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+            <folding>
+              <element signature="e#0#28#0" expanded="true" />
+              <marker date="1588605700966" expanded="true" signature="1363:1559" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="2122:2168" ph="SELECT * FRO... Users" />
+              <marker date="1588605700966" expanded="true" signature="2338:2418" ph="insert into users... " />
+              <marker date="1588605700966" expanded="true" signature="3054:3105" ph="select usern... users" />
+              <marker date="1588605700966" expanded="true" signature="3207:3258" ph="select passw... users" />
+              <marker date="1588605700966" expanded="true" signature="3661:3707" ph="SELECT * FRO... users" />
+              <marker date="1588605700966" expanded="true" signature="4690:4774" ph="INSERT INTO books... " />
+              <marker date="1588605700966" expanded="true" signature="5673:5717" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="5987:6056" ph="SELECT * FRO... reviews" />
+              <marker date="1588605700966" expanded="true" signature="6467:6589" ph="INSERT INTO reviews... " />
+              <marker date="1588605700966" expanded="true" signature="7058:7146" ph="SELECT isbn,... " />
+              <marker date="1588605700966" expanded="true" signature="7979:8023" ph="SELECT book_... books" />
+              <marker date="1588605700966" expanded="true" signature="8339:8578" ph="SELECT users... users" />
+              <marker date="1588605700966" expanded="true" signature="8969:9347" ph="SELECT title... " />
+            </folding>
           </first_editor>
-          <second_editor relative-caret-position="0">
+          <second_editor relative-caret-position="-119">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

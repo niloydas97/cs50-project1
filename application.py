@@ -8,6 +8,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
 import requests  # for goodreads API
 import json
+import os
 
 app = Flask (__name__)
 # Configure session to use filesystem
@@ -20,6 +21,15 @@ Session
 # Set up database
 engine = create_engine ("postgres://lwqicgjlaxxgrp:6a496476fac6d1caed3b8eb614368d3b8376905c523a1470733895b7dc1ab046@ec2-52-202-22-140.compute-1.amazonaws.com:5432/df3jj5abngsvgu")
 db = scoped_session (sessionmaker (bind=engine))
+
+#
+# # Check for environment variable
+# if not os.getenv("DATABASE_URL"):
+#     raise RuntimeError("DATABASE_URL is not set")
+#
+# # Set up database
+# engine = create_engine(os.getenv("DATABASE_URL"))
+# db = scoped_session(sessionmaker(bind=engine))
 
 
 # Home

@@ -1,0 +1,17 @@
+postgres://jexwgwstgaxxqw:1c1a147ba9d6d327bd1c3571614b61dfb1624d9175741aac373b268e2f7e0a77@ec2-3-91-139-25.compute-1.amazonaws.com:5432/dbmq67e3vd7036
+
+
+Host
+ec2-3-91-139-25.compute-1.amazonaws.com
+Database
+dbmq67e3vd7036
+User
+jexwgwstgaxxqw
+Port
+5432
+Password
+1c1a147ba9d6d327bd1c3571614b61dfb1624d9175741aac373b268e2f7e0a77
+URI
+postgres://jexwgwstgaxxqw:1c1a147ba9d6d327bd1c3571614b61dfb1624d9175741aac373b268e2f7e0a77@ec2-3-91-139-25.compute-1.amazonaws.com:5432/dbmq67e3vd7036
+Heroku CLI
+heroku pg:psql postgresql-slippery-89691 --app boighar
