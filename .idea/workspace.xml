@@ -21,24 +21,24 @@
         <entry file="file://$PROJECT_DIR$/application.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="204">
-                <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <first_editor relative-caret-position="238">
+                <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                 <folding>
                   <element signature="e#0#28#0" expanded="true" />
-                  <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-                  <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-                  <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-                  <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-                  <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-                  <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-                  <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-                  <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-                  <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-                  <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-                  <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-                  <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-                  <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-                  <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+                  <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+                  <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+                  <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+                  <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+                  <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+                  <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+                  <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+                  <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+                  <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+                  <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+                  <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+                  <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+                  <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+                  <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
                 </folding>
               </first_editor>
               <second_editor relative-caret-position="-119">
@@ -785,12 +785,12 @@
       <workItem from="1588427105316" duration="1319000" />
       <workItem from="1588481846809" duration="4178000" />
       <workItem from="1588565886141" duration="7322000" />
-      <workItem from="1588596790226" duration="5966000" />
+      <workItem from="1588596790226" duration="6759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170759000" />
+    <option name="totallyTimeSpent" value="171552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -917,40 +917,40 @@
             <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </second_editor>
         </state>
@@ -979,40 +979,40 @@
             <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </second_editor>
         </state>
@@ -1039,40 +1039,40 @@
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </first_editor>
           <second_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </second_editor>
         </state>
@@ -1328,24 +1328,24 @@
     <entry file="file://$PROJECT_DIR$/application.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="204">
-            <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <first_editor relative-caret-position="238">
+            <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
             <folding>
               <element signature="e#0#28#0" expanded="true" />
-              <marker date="1588606073095" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
-              <marker date="1588606073095" expanded="true" signature="2329:2409" ph="insert into users... " />
-              <marker date="1588606073095" expanded="true" signature="3045:3096" ph="select usern... users" />
-              <marker date="1588606073095" expanded="true" signature="3198:3249" ph="select passw... users" />
-              <marker date="1588606073095" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
-              <marker date="1588606073095" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
-              <marker date="1588606073095" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
-              <marker date="1588606073095" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
-              <marker date="1588606073095" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
-              <marker date="1588606073095" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
-              <marker date="1588606073095" expanded="true" signature="8330:8569" ph="SELECT users... users" />
-              <marker date="1588606073095" expanded="true" signature="8960:9338" ph="SELECT title... " />
+              <marker date="1588606880817" expanded="true" signature="1354:1550" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="2113:2159" ph="SELECT * FRO... Users" />
+              <marker date="1588606880817" expanded="true" signature="2329:2409" ph="insert into users... " />
+              <marker date="1588606880817" expanded="true" signature="3045:3096" ph="select usern... users" />
+              <marker date="1588606880817" expanded="true" signature="3198:3249" ph="select passw... users" />
+              <marker date="1588606880817" expanded="true" signature="3652:3698" ph="SELECT * FRO... users" />
+              <marker date="1588606880817" expanded="true" signature="4681:4765" ph="INSERT INTO books... " />
+              <marker date="1588606880817" expanded="true" signature="5664:5708" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="5978:6047" ph="SELECT * FRO... reviews" />
+              <marker date="1588606880817" expanded="true" signature="6458:6580" ph="INSERT INTO reviews... " />
+              <marker date="1588606880817" expanded="true" signature="7049:7137" ph="SELECT isbn,... " />
+              <marker date="1588606880817" expanded="true" signature="7970:8014" ph="SELECT book_... books" />
+              <marker date="1588606880817" expanded="true" signature="8330:8569" ph="SELECT users... users" />
+              <marker date="1588606880817" expanded="true" signature="8960:9338" ph="SELECT title... " />
             </folding>
           </first_editor>
           <second_editor relative-caret-position="-119">

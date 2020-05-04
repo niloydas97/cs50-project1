@@ -25,11 +25,11 @@ Session
 
 
 # Check for environment variable
-if not os.getenv("DATABASE_URL"):
+if not os.getenv("DATABASE_URI"):
     raise RuntimeError("DATABASE_URL is not set")
 
 # Set up database
-engine = create_engine(os.getenv("DATABASE_URL"))
+engine = create_engine(os.getenv("DATABASE_URI"))
 db = scoped_session(sessionmaker(bind=engine))
 
 
