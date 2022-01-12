@@ -27,7 +27,7 @@ MarkupSafe==1.1.1
 numpy==1.18.2
 pandas==1.0.3
 passlib==1.7.2
-pipenv==2018.11.26
+pipenv==2022.1.8
 ply==3.11
 psycopg2==2.8.5
 psycopg2-binary==2.8.5
