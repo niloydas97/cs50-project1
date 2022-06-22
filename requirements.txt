@@ -24,7 +24,7 @@ Jinja2==2.11.1
 jsmin==2.2.2
 lesscpy==0.14.0
 MarkupSafe==1.1.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 passlib==1.7.2
 pipenv==2018.11.26
